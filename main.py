@@ -11,3 +11,5 @@ from phonenumbers import carrier
 service_nmber = phonenumbers.parse(number, "RO")
 print(carrier.name_for_number(service_nmber, "en"))
 
+
+#  © CYBERX TV PRODUCTION 2021
